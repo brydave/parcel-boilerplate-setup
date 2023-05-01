@@ -1,10 +1,16 @@
 # Parcel Boilerplate Setup
 
 ## Clone Repo
-`git clone # && cd parcel-boilerplate-setup`
+```Bash
+gh repo clone brydave/parcel-boilerplate-setup && cd parcel-boilerplate-setup
+```
 
 ## Install Dependencies
-`npm i`
+```Bash
+npm i
+```
 
 ## Start Server
-`npm run start`
+```Bash
+npm run start
+```
